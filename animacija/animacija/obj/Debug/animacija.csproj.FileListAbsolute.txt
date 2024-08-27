@@ -1,0 +1,11 @@
+C:\Users\ip6251\Desktop\animacija\animacija\bin\Debug\animacija.exe.config
+C:\Users\ip6251\Desktop\animacija\animacija\bin\Debug\animacija.exe
+C:\Users\ip6251\Desktop\animacija\animacija\bin\Debug\animacija.pdb
+C:\Users\ip6251\Desktop\animacija\animacija\obj\Debug\animacija.csproj.AssemblyReference.cache
+C:\Users\ip6251\Desktop\animacija\animacija\obj\Debug\animacija.csproj.SuggestedBindingRedirects.cache
+C:\Users\ip6251\Desktop\animacija\animacija\obj\Debug\animacija.Form1.resources
+C:\Users\ip6251\Desktop\animacija\animacija\obj\Debug\animacija.Properties.Resources.resources
+C:\Users\ip6251\Desktop\animacija\animacija\obj\Debug\animacija.csproj.GenerateResource.cache
+C:\Users\ip6251\Desktop\animacija\animacija\obj\Debug\animacija.csproj.CoreCompileInputs.cache
+C:\Users\ip6251\Desktop\animacija\animacija\obj\Debug\animacija.exe
+C:\Users\ip6251\Desktop\animacija\animacija\obj\Debug\animacija.pdb

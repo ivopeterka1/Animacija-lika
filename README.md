@@ -1,1 +1,1 @@
-Tukaj je shranjena koda za mojo temo animacija lika pri predmetu računalništvo 2.
+Tukaj je shranjena koda za mojo preprosto animacijo lika.
